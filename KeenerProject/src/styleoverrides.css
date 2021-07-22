@@ -1,0 +1,140 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.main-cont {
+    padding-top:45px;
+}
+
+.login-cont {
+    padding-top:50px;
+    padding: 200px;
+    align-content:center;
+}
+
+.login-form {
+    padding: 100px;
+    padding-top:50px;
+    align-content: center;
+    border: groove;
+    border-radius: 10px;
+    border-width: 2px;
+}
+
+.break-small {
+    padding: 5px;
+}
+
+.break-medium {
+    padding: 20px;
+}
+
+.break-big {
+    padding:200px;
+}
+
+.hflex {
+    display: flex;
+    flex-direction: row;
+}
+
+.vflex {
+    display: flex;
+    flex-direction: column;
+}
+
+.abs {
+    position: absolute;
+}
+
+.text-input-register {
+    left: 10px;
+    width: 400px;
+}
+
+.text-input-login {
+
+}
+
+.link-main-page {
+    padding: 20px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: larger;
+    width: 500px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.header-link {
+    color: white;
+    text-decoration: none;
+}
+
+#date-picker-1 { 
+    top:60px;
+    left:10px;
+}
+
+#time-picker-1 {
+    top: 84px;
+    left: 320px;
+}
+
+#text-input-1 {
+    top: 140px;
+}
+
+#text-input-2 {
+    top: 220px;
+}
+
+#text-input-3 {
+    top: 300px;
+}
+
+#text-input-4 {
+    top: 60px;
+}
+
+#text-input-5 {
+    top: 140px;
+}
+
+#text-input-6 {
+    top: 220px;
+}
+
+#text-input-7 {
+    top: 300px;
+}
+
+
+
+#checkbox-1 {
+    left: 10px;
+    top: 390px;
+}
+
+#button-submit-1 {
+    top: 380px;
+    left: 210px;
+}
+
+#button-submit-2 {
+    top: 380px;
+    left: 10px;
+}
+
+
+#main-page-container {
+    align-self:center;
+    align-items: center;
+}
+
+#sign-up-link {
+    padding-top: 350px;
+    padding-left: 100px;
+}

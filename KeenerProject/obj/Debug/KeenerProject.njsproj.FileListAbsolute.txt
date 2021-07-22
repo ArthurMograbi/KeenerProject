@@ -1,0 +1,3 @@
+C:\Users\Arthur\source\repos\KeenerProject\KeenerProject\obj\Debug\KeenerProject.njsproj.AssemblyReference.cache
+C:\Users\Arthur\source\repos\KeenerProject\KeenerProject\obj\Debug\KeenerProject.njsproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\KeenerProject\KeenerProject\bin\Microsoft.NodejsTools.WebRole.dll
